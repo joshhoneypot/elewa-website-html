@@ -36,6 +36,9 @@
     font-size: 32px;
 }
 
+.landing-body h1{
+    font-size: 50px;
+}
 
 #action-button{
     background: #000000 0% 0% no-repeat padding-box;
