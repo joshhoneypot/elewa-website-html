@@ -1,8 +1,17 @@
 * {
     background: #FAE9E8;
     opacity: 1;
+    padding-left: 13.27%;
+    padding-right: 13.27%;
+}
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 #logo{
-    background: transparent url('img/Image 2.png') 0% 0% no-repeat padd
+    background: transparent
 }
