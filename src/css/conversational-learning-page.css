@@ -1,15 +1,25 @@
 * {
     background: #FAE9E8;
     opacity: 1;
-    padding-left: 13.27%;
-    padding-right: 13.27%;
+    justify-content: center;
 }
 
-
-.header {
+.header {git 
+    background: #FAE9E8;
+    opacity: 1;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    padding: 0% 20% 0% 20%;
+}
+
+#header-menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+#menu-item{
+    background: #FAE9E8;
+    padding-right: 10px;
 }
 
 #logo{
