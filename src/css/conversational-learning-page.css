@@ -4,12 +4,12 @@
     justify-content: center;
 }
 
-.header {git 
+.header {
+    padding: 0% 20% 0% 20% ;
     background: #FAE9E8;
     opacity: 1;
     display: flex;
     justify-content: space-between;
-    padding: 0% 20% 0% 20%;
 }
 
 #header-menu{
@@ -24,4 +24,9 @@
 
 #logo{
     background: transparent
+}
+
+.landing-body{
+    align-items: left;
+    padding: 0% 20%;
 }
